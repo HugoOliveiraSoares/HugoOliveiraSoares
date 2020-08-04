@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hugo Oliveira Soares
 
-<!--
-**HugoOliveiraSoares/HugoOliveiraSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou Estudante de Ciências da Computção, gosto de me desafiar resolvendo problemas usando a programação.
+<br/> :computer: Programo em Java e C
+<br/> 👨‍💻 Estudando HTML, CSS, JavaScript
+<br/> 🕵 Busco colaborar com projetos com base em Arduino e Iot e em projetos Linux :penguin:.
+<br/> :blush: Posso ajudar com Linux, Arduino, HTML.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HugoOliveiraSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugooliveirasoares/)](https://www.linkedin.com/in/hugooliveirasoares/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-hugoliveira.soares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugoliveira.soares@gmail.com)](mailto:hugoliveira.soares@gmail.com)
