@@ -1,7 +1,7 @@
 # Hugo Oliveira Soares
 
 ## Olá pessoal 👋
-Sou Estudante de Ciências da Computação, gosto de me desafiar resolvendo problemas usando a programação.
+Sou Estudante de Ciências da Computação na faculdade EMGE <img src="http://emge.edu.br/wp-content/uploads/2017/11/favicon.png" width="15" height="15">, gosto de me desafiar resolvendo problemas usando a programação.
 <br/> :computer: Programo em Java e C
 <br/> 🕵 Busco colaborar com projetos com base em Arduino e Iot e em projetos Linux :penguin:.
 <br/> :blush: Posso ajudar com Linux, Arduino e Java.
