@@ -5,7 +5,7 @@ Computer Science Student at DomHelder <img src="https://domhelder.edu.br/favicon
 btw i use arch <img src="https://archlinux.org/static/favicon.29302f683ff8.ico" width="15" height="15">
 
 ### Languages & Tools 🛠
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=white) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=OpenJDK&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=white) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka) 
 
@@ -22,12 +22,9 @@ btw i use arch <img src="https://archlinux.org/static/favicon.29302f683ff8.ico" 
 
 
 ### Analytics ⚙️
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=HugoOliveiraSoares&theme=dracula&count_private=true&show_icons=true)
+[![Github Statistics](https://github-readme-stats.vercel.app/api/?username=HugoOliveiraSoares&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=HugoOliveiraSoares&theme=dracula&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoOliveiraSoares&layout=compact&langs_count=10&theme=dracula)](https://github.com/HugoOliveiraSoares/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HugoOliveiraSoares&theme=tokyonight&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoOliveiraSoares&layout=compact&langs_count=10&show_icons=true&theme=tokyonight&hide_border=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's connect ? 🤝
 
